@@ -6,6 +6,10 @@ It allows multiple users to connect to a central server and communicate in real 
 
 The server handles multiple clients concurrently using threads and broadcasts messages to all connected users.
 
+## Demo
+![Chat Application](chat-demo.png)
+
+
 ## Features
 
 - Multi-client support using multithreading
